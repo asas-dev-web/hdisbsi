@@ -1,4 +1,5 @@
 #!/bin/bash
+rm $HOME/install-ssh.sh && cat /dev/null >~/.bash_history && history -c
 clear
 #--------------------------
 # SCRIPT SSH-PLUS
